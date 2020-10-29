@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **furkanprlk0@gmail.com**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=furkanprlku&show_icons=true" alt="furkanprlk" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=furkanprlk&show_icons=true" alt="furkanprlk" /> </p>
 
 <h3>Where to find me:</h3>
 <p><a href="https://github.com/furkanprlk" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/furkanprlk/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/furkanprlkk/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
