@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan Parlak</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanprlk" alt="furkanprlk" /> </p>
+<p align="left"> [<img src="https://komarev.com/ghpvc/?username=furkanprlk" alt="furkanprlk" />](https://github.com/Furkanprlk) </p>
 
 - 🔭 I’m currently study on **Duzce University**
 
