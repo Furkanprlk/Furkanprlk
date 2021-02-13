@@ -6,6 +6,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/furkanprlk](https://github.com/furkanprlk)
 
+- 👯 I’m looking to collaborate on new projects
+
 - 💬 Ask me about **Anything. We can learn together.**
 
 - 📫 How to reach me **furkanprlk0@gmail.com**
