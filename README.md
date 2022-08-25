@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanprlk" alt="furkanprlk" /> </p>
 
-- 🔭 I’m currently study on **Duzce University**
-
 - 👨‍💻 All of my projects are available at [https://github.com/furkanprlk](https://github.com/furkanprlk)
 
 - 👯 I’m looking to collaborate on new projects
