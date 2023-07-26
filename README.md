@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Anything. We can learn together.**
 
-- 📫 How to reach me **furkanprlk0@gmail.com**
+- 📫 How to reach me **contact@furkanparlak.com**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=furkanprlk&show_icons=true" alt="furkanprlk" /> </p>
 
